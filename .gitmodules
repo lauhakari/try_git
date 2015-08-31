@@ -1,0 +1,4 @@
+[submodule "mysub"]
+	path = mysub
+	url = https://mikkolauhakari@bitbucket.org/raffleyard/raffleyard.git
+	branch = master
